@@ -1,0 +1,3 @@
+This software is designed to help the client manage the flow of aircraft in their airport. It will enable them to keep track of the capacity of the airport, while allowing them to make updates to the maximum capacity, and enable them to easily see if they have the capacity to allow another aircraft to land at any given time.
+
+Given that this software is related to a safety critial system of aircraft landing at airports, there are inherent risks to it, however using test driven development will allow the code to be written in a risk-averse way to ensure that the needs of the client are met safely.
